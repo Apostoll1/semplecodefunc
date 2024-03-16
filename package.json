@@ -1,0 +1,24 @@
+{
+  "name": "semplecodefunc",
+  "version": "1.0.0",
+  "description": "added experemental code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Apostoll1/semplecodefunc.git"
+  },
+  "dependencies": {
+    "congratsgame": "1.0.0",
+    "mvrsadawor": "1.0.0",
+    "helperfunc_elp": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apostoll1/semplecodefunc/issues"
+  },
+  "homepage": "https://github.com/Apostoll1/semplecodefunc#readme"
+}
